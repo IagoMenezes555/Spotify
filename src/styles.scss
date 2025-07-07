@@ -1,8 +1,23 @@
-body{
+body {
     margin: 0;
     height: 100dvh;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }
 
-:root{
+:root {
     --primary-color: rgb(36, 36, 36);
+}
+
+button {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+input {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
 }

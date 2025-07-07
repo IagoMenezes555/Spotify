@@ -1,6 +1,11 @@
 header {
     background-color: black;
     display: flex;
+    justify-content: space-between;
+
+    .a {
+        display: flex;
+    }
 
     .image {
         margin: 10px;
@@ -34,10 +39,27 @@ header {
 
         .input {
             background-color: var(--primary-color);
+            border-radius: 80px;
+            width: 400px;
+            display: flex;
+
+            button {
+                background-color: transparent;
+                border: none;
+            }
 
             input {
                 background-color: var(--primary-color);
+                border: none;
             }
         }
+    }
+
+    .buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 10px;
+        gap: 20px;
     }
 }
