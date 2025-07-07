@@ -1,6 +1,6 @@
 # 🎧 Clone do Spotify - Interface com Dados Mocados
 
-Bem-vindo(a) ao **Clone do Spotify**, um projeto desenvolvido para recriar a interface da famosa plataforma de streaming musical, utilizando dados mocados.  
+Bem-vindo(a) ao **Clone do Spotify**, um projeto desenvolvido para recriar a interface da famosa plataforma de streaming musical, utilizando dados mockados.  
 O foco está na interface visual, animações e experiência do usuário, simulando uma aplicação real sem conexão com uma API externa.
 
 ## ✨ Sobre o Projeto
@@ -8,7 +8,7 @@ O foco está na interface visual, animações e experiência do usuário, simula
 Este projeto foi criado com o objetivo de:
 
 - 🎨 Recriar a interface do Spotify com fidelidade visual
-- 📁 Utilizar dados mocados para simular playlists, artistas e álbuns
+- 📁 Utilizar dados mockados para simular playlists, artistas e álbuns
 - ⚙️ Praticar organização de componentes e rotas
 - 🧑‍💻 Aplicar conceitos modernos de desenvolvimento web
 
