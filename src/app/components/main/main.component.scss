@@ -1,0 +1,11 @@
+main{
+    background-color: var(--primary-color);
+    display: flex;
+
+    .text{
+        display: flex;
+        margin: 20px;
+        justify-content: space-between;
+        width: 100%;
+    }
+}
