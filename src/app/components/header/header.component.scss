@@ -1,13 +1,35 @@
-header{
+header {
     background-color: black;
     display: flex;
 
-    .image{
+    .image {
         margin: 10px;
+        margin-left: 20px;
+        display: flex;
+        align-items: center;
 
-        img{
-            height: 40px;
-            width: 40px;
+        img {
+            height: 35px;
+            width: 35px;
+        }
+    }
+
+    .main {
+        display: flex;
+        margin: 10px;
+        gap: 10px;
+
+        .home {
+            background-color: var(--primary-color);
+            border-radius: 100%;
+            border: none;
+            height: 50px;
+            width: 50px;
+
+            img {
+                height: 30px;
+                width: 30px;
+            }
         }
     }
 }
