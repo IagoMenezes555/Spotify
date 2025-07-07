@@ -31,5 +31,13 @@ header {
                 width: 30px;
             }
         }
+
+        .input {
+            background-color: var(--primary-color);
+
+            input {
+                background-color: var(--primary-color);
+            }
+        }
     }
 }
