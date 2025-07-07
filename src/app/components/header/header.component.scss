@@ -42,8 +42,9 @@ header {
         .input {
             background-color: var(--primary-color);
             border-radius: 80px;
-            width: 500px;
+            width: 450px;
             display: flex;
+            transition: 100ms;
 
             button {
                 background-color: transparent;
@@ -56,6 +57,16 @@ header {
                 width: 460px;
                 border-radius: 80px;
                 color: white;
+                transition: 100ms;
+            }
+        }
+
+        .input:hover {
+            background-color: rgb(49, 49, 49);
+            border: 1px solid rgb(197, 197, 197);
+
+            input {
+                background-color: rgb(49, 49, 49);
             }
         }
     }
@@ -89,7 +100,7 @@ header {
             transition: 100ms;
         }
 
-        .sub:hover{
+        .sub:hover {
             cursor: pointer;
             color: white;
             font-size: 14px;
