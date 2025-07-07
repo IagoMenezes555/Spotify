@@ -73,17 +73,26 @@ header {
             width: 120px;
             background-color: white;
             font-size: 15px;
+            transition: 100ms;
         }
 
         .enter:hover {
             padding: 15px;
             background-color: rgb(212, 212, 212);
+            cursor: pointer;
         }
 
         .sub {
             background-color: transparent;
             color: rgb(211, 211, 211);
             border: none;
+            transition: 100ms;
+        }
+
+        .sub:hover{
+            cursor: pointer;
+            color: white;
+            font-size: 14px;
         }
     }
 }
