@@ -9,4 +9,16 @@
         height: 150px;
         width: 150px;
     }
+
+    .names{
+        display: flex;
+        flex-direction: column;
+        width: 150px;
+        color: white;
+
+        .autor{
+            color: rgb(196, 194, 194);
+            font-size: 12px;
+        }
+    }
 }
