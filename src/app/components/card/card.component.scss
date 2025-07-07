@@ -4,6 +4,7 @@
     width: 180px;
     align-items: center;
     height: 230px;
+    transition: 200ms;
 
     img{
         height: 150px;
@@ -21,4 +22,8 @@
             font-size: 12px;
         }
     }
+}
+
+.card:hover{
+    background-color: rgb(51, 51, 51);
 }
