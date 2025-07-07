@@ -1,59 +1,22 @@
-# Spotify
+# 🎧 Clone do Spotify - Interface com Dados Mocados
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
+Bem-vindo(a) ao **Clone do Spotify**, um projeto desenvolvido para recriar a interface da famosa plataforma de streaming musical, utilizando dados mocados.  
+O foco está na interface visual, animações e experiência do usuário, simulando uma aplicação real sem conexão com uma API externa.
 
-## Development server
+## ✨ Sobre o Projeto
 
-To start a local development server, run:
+Este projeto foi criado com o objetivo de:
 
-```bash
-ng serve
-```
+- 🎨 Recriar a interface do Spotify com fidelidade visual
+- 📁 Utilizar dados mocados para simular playlists, artistas e álbuns
+- ⚙️ Praticar organização de componentes e rotas
+- 🧑‍💻 Aplicar conceitos modernos de desenvolvimento web
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Esse projeto é ideal para quem quer estudar a estrutura de uma aplicação moderna, focada em front-end e experiência do usuário.
 
-## Code scaffolding
+## 🧰 Tecnologias Utilizadas
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Angular
+- TypeScript
+- HTML5
+- SCSS
