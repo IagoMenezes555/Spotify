@@ -61,5 +61,13 @@ header {
         justify-content: center;
         margin: 10px;
         gap: 20px;
+
+        .enter{
+            padding: 15px;
+            border-radius: 30px;
+            width: 120px;
+            background-color: white;
+            font-size: 15px;
+        }
     }
 }
