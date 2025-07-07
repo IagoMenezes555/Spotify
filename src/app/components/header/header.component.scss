@@ -32,11 +32,17 @@ header {
             border: none;
             height: 50px;
             width: 50px;
+            transition: 100ms;
 
             img {
                 height: 30px;
                 width: 30px;
             }
+        }
+
+        .home:hover{
+            background-color: rgb(49, 49, 49);
+            cursor: pointer;
         }
 
         .input {
