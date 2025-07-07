@@ -2,6 +2,7 @@ header {
     background-color: black;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
     .a {
         display: flex;
@@ -68,6 +69,12 @@ header {
             width: 120px;
             background-color: white;
             font-size: 15px;
+        }
+
+        .sub{
+            background-color: transparent;
+            color: rgb(211, 211, 211);
+            border: none;
         }
     }
 }
