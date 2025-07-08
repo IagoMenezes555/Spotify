@@ -35,7 +35,6 @@ main {
     }
 
     .card {
-        margin-left: 20px;
         display: flex;
         align-items: center;
 
@@ -43,7 +42,6 @@ main {
             display: flex;
             overflow: hidden;
             scroll-behavior: smooth;
-            gap: 16px;
             width: 100%;
             padding: 16px 0;
             scroll-snap-type: x mandatory;
