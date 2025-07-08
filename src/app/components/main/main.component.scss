@@ -61,6 +61,10 @@ main {
             color: white;
         }
 
+        .nav-button-left:hover{
+            background-color: rgb(8, 8, 8);
+        }
+
         .nav-button-right {
             height: 50px;
             width: 50px;
@@ -69,6 +73,10 @@ main {
             background-color: black;
             border: none;
             color: white;
+        }
+
+        .nav-button-right:hover{
+            background-color: rgb(8, 8, 8);
         }
     }
 }
