@@ -45,22 +45,22 @@ export class Musicas {
   enviarMusicas(){
 
     let musics = [
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
-    {nome: "teste", cantor: "teste"},
+    {nome: "teste1", cantor: "teste1"},
+    {nome: "teste2", cantor: "teste2"},
+    {nome: "teste3", cantor: "teste3"},
+    {nome: "teste4", cantor: "teste4"},
+    {nome: "teste5", cantor: "teste5"},
+    {nome: "teste6", cantor: "teste6"},
+    {nome: "teste7", cantor: "teste7"},
+    {nome: "teste8", cantor: "teste8"},
+    {nome: "teste9", cantor: "teste9"},
+    {nome: "teste10", cantor: "teste10"},
+    {nome: "teste11", cantor: "teste11"},
+    {nome: "teste12", cantor: "teste12"},
+    {nome: "teste13", cantor: "teste13"},
+    {nome: "teste14", cantor: "teste14"},
+    {nome: "teste15", cantor: "teste15"},
+    {nome: "teste16", cantor: "teste16"},
   ]
 
   this.musicsService.musics = musics;
