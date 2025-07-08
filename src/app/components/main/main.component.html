@@ -4,6 +4,10 @@
         <a class="link" href="#">Mostrar tudo</a>
     </div>
     <div class="card">
-        <app-card></app-card>
+        <button (click)="scrollLeft()" class="nav-button-left">&lt;</button>
+        <div class="carousel" #carousel>
+            <app-card *ngFor="let music of musics"></app-card>
+        </div>
+        <button (click)="scrollRight()" class="nav-button-right">&gt;</button>
     </div>
 </main>

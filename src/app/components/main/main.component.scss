@@ -36,5 +36,33 @@ main {
 
     .card {
         margin-left: 20px;
+        display: flex;
+        align-items: center;
+
+
+        .carousel {
+            display: flex;
+            overflow: hidden;
+            scroll-behavior: smooth;
+            gap: 16px;
+            width: 100%;
+            padding: 16px 0;
+            scroll-snap-type: x mandatory;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .nav-button-left {
+            height: 50px;
+            width: 50px;
+            margin-left: 10px;
+            border-radius: 100%;
+        }
+
+        .nav-button-right {
+            height: 50px;
+            width: 50px;
+            margin-right: 20px;
+            border-radius: 100%;
+        }
     }
 }
