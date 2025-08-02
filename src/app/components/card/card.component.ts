@@ -9,7 +9,7 @@ import { MusicsService } from '../../services/musics.service';
 })
 export class CardComponent {
   constructor(private musicsService: MusicsService) {}
-  results = [{ nome: '', cantor: '' }];
+  results = [{ nome: '', cantor: '', imagem: ''}];
 
   ngOnInit() {
     this.musicsService.getData().subscribe((o) => {

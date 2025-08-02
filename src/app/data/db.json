@@ -1,10 +1,89 @@
 {
-    "Musicas": [
-        {"nome": "Teste", "cantor": "Cantor"},
-        {"nome": "Teste2", "cantor": "Cantor2"},
-        {"nome": "Teste3", "cantor": "Cantor3"},
-        {"nome": "Teste4", "cantor": "Cantor4"},
-        {"nome": "Teste5", "cantor": "Cantor5"},
-        {"nome": "Teste6", "cantor": "Cantor6"}
-    ]
+  "Musicas": [
+    {
+      "nome": "Sentimental",
+      "cantor": "Los Hermanos",
+      "imagem": "./blocoDoEuSozinho.png"
+    },
+    {
+      "nome": "Black",
+      "cantor": "Pearl Jam",
+      "imagem": "./ten.png"
+    },
+    {
+      "nome": "Anna Júlia",
+      "cantor": "Los Hermanos",
+      "imagem": "./losHermanos.png"
+    },
+    {
+      "nome": "Romantic Homicide",
+      "cantor": "D4vd",
+      "imagem": "./romanticHomicide.png"
+    },
+    {
+      "nome": "Tek It",
+      "cantor": "Cafuné",
+      "imagem": "./tekIt.png"
+    },
+    {
+      "nome": "Creep",
+      "cantor": "Radiohead",
+      "imagem": "./pabloHoney.png"
+    },
+    {
+      "nome": "Hey Jude",
+      "cantor": "The Beatles",
+      "imagem": "./heyJude.png"
+    },
+    {
+      "nome": "Bohemian Rhapsody",
+      "cantor": "Queen",
+      "imagem": "./queen.png"
+    },
+    {
+      "nome": "I Was Made For Lovin' You",
+      "cantor": "Kiss",
+      "imagem": "./kiss.png"
+    },
+    {
+      "nome": "November Rain",
+      "cantor": "Guns N' Roses",
+      "imagem": "./gunsNRoses.png"
+    },
+    {
+      "nome": "Tempo Perdido",
+      "cantor": "Legião Urbana",
+      "imagem": "./legiaoUrbana.png"
+    },
+    {
+      "nome": "Lithium",
+      "cantor": "Nirvana",
+      "imagem": "./nirvana.png"
+    },
+    {
+      "nome": "Take On Me",
+      "cantor": "A-Ha",
+      "imagem": "./aHa.png"
+    },
+    {
+      "nome": "I'm Still Standing",
+      "cantor": "Elton John",
+      "imagem": "./eltonJohn.png"
+    },
+    {
+      "nome": "Um Minuto Para O Fim Do Mundo",
+      "cantor": "CPM22",
+      "imagem": "./CPM22.png"
+    },
+    {
+      "nome": "Always",
+      "cantor": "Bon Jovi",
+      "imagem": "./bonJovi.png"
+    },
+    {
+      "nome": "Billie Jean",
+      "cantor": "Michael Jackson",
+      "imagem": "./michaelJackson.png"
+    }
+  ]
 }

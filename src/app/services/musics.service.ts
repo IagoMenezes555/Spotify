@@ -4,7 +4,8 @@ import { Observable } from 'rxjs';
 
 export interface M{
   nome: string,
-  cantor: string
+  cantor: string,
+  imagem: string
 }
 
 @Injectable({
