@@ -3,87 +3,87 @@
     {
       "nome": "Sentimental",
       "cantor": "Los Hermanos",
-      "imagem": "./blocoDoEuSozinho.png"
+      "imagem": "./albums/blocoDoEuSozinho.png"
     },
     {
       "nome": "Black",
       "cantor": "Pearl Jam",
-      "imagem": "./ten.png"
+      "imagem": "./albums/ten.png"
     },
     {
       "nome": "Anna Júlia",
       "cantor": "Los Hermanos",
-      "imagem": "./losHermanos.png"
+      "imagem": "./albums/losHermanos.png"
     },
     {
       "nome": "Romantic Homicide",
       "cantor": "D4vd",
-      "imagem": "./romanticHomicide.png"
+      "imagem": "./albums/romanticHomicide.png"
     },
     {
       "nome": "Tek It",
       "cantor": "Cafuné",
-      "imagem": "./tekIt.png"
+      "imagem": "./albums/tekIt.png"
     },
     {
       "nome": "Creep",
       "cantor": "Radiohead",
-      "imagem": "./pabloHoney.png"
+      "imagem": "./albums/pabloHoney.png"
     },
     {
       "nome": "Hey Jude",
       "cantor": "The Beatles",
-      "imagem": "./heyJude.png"
+      "imagem": "./albums/heyJude.png"
     },
     {
       "nome": "Bohemian Rhapsody",
       "cantor": "Queen",
-      "imagem": "./queen.png"
+      "imagem": "./albums/queen.png"
     },
     {
       "nome": "I Was Made For Lovin' You",
       "cantor": "Kiss",
-      "imagem": "./kiss.png"
+      "imagem": "./albums/kiss.png"
     },
     {
       "nome": "November Rain",
       "cantor": "Guns N' Roses",
-      "imagem": "./gunsNRoses.png"
+      "imagem": "./albums/gunsNRoses.png"
     },
     {
       "nome": "Tempo Perdido",
       "cantor": "Legião Urbana",
-      "imagem": "./legiaoUrbana.png"
+      "imagem": "./albums/legiaoUrbana.png"
     },
     {
       "nome": "Lithium",
       "cantor": "Nirvana",
-      "imagem": "./nirvana.png"
+      "imagem": "./albums/nirvana.png"
     },
     {
       "nome": "Take On Me",
       "cantor": "A-Ha",
-      "imagem": "./aHa.png"
+      "imagem": "./albums/aHa.png"
     },
     {
       "nome": "I'm Still Standing",
       "cantor": "Elton John",
-      "imagem": "./eltonJohn.png"
+      "imagem": "./albums/eltonJohn.png"
     },
     {
       "nome": "Um Minuto Para O Fim Do Mundo",
       "cantor": "CPM22",
-      "imagem": "./CPM22.png"
+      "imagem": "./albums/CPM22.png"
     },
     {
       "nome": "Always",
       "cantor": "Bon Jovi",
-      "imagem": "./bonJovi.png"
+      "imagem": "./albums/bonJovi.png"
     },
     {
       "nome": "Billie Jean",
       "cantor": "Michael Jackson",
-      "imagem": "./michaelJackson.png"
+      "imagem": "./albums/michaelJackson.png"
     }
   ]
 }
