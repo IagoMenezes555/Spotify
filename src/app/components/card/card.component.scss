@@ -1,4 +1,7 @@
-.card{
+.cards {
+    display: flex;
+
+  .card {
     display: flex;
     flex-direction: column;
     width: 180px;
@@ -6,24 +9,25 @@
     height: 230px;
     transition: 200ms;
 
-    img{
-        height: 150px;
-        width: 150px;
+    img {
+      height: 150px;
+      width: 150px;
     }
 
-    .names{
-        display: flex;
-        flex-direction: column;
-        width: 150px;
-        color: white;
+    .names {
+      display: flex;
+      flex-direction: column;
+      width: 150px;
+      color: white;
 
-        .autor{
-            color: rgb(196, 194, 194);
-            font-size: 12px;
-        }
+      .autor {
+        color: rgb(196, 194, 194);
+        font-size: 12px;
+      }
     }
-}
+  }
 
-.card:hover{
+  .card:hover {
     background-color: rgb(51, 51, 51);
+  }
 }

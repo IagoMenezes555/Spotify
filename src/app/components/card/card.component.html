@@ -1,7 +1,11 @@
-<div class="card">
-    <img src="./not-found.png" alt="Não encontrado">
+<div class="cards">
+  @for(result of results; track $index){
+  <div class="card">
+    <img src="./not-found.png" alt="Não encontrado" />
     <div class="names">
-        <span>Nome da música</span>
-        <span class="autor">Nome do cantor</span>
+      <span>{{ results[$index].nome }}</span>
+      <span class="autor">{{ results[$index].cantor }}</span>
     </div>
+  </div>
+  }
 </div>

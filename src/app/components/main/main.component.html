@@ -6,9 +6,7 @@
     <div class="card">
         <button (click)="scrollLeft()" class="nav-button-left">&lt;</button>
         <div class="carousel" #carousel>
-            @for(music of musics; track music){
-                <app-card></app-card>
-            }
+            <app-card></app-card>
         </div>
         <button (click)="scrollRight()" class="nav-button-right">&gt;</button>
     </div>
