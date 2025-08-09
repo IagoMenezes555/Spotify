@@ -1,0 +1,11 @@
+<div class="circles">
+  @for(result of results; track $index){
+  <div class="circle">
+    <img [src]="results[$index].imagem" alt="Não encontrado" />
+    <div class="names">
+      <span>{{ results[$index].nome }}</span>
+      <span class="autor">{{ results[$index].tipo }}</span>
+    </div>
+  </div>
+  }
+</div>

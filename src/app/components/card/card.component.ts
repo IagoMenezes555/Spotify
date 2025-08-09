@@ -12,7 +12,7 @@ export class CardComponent {
   results = [{ nome: '', cantor: '', imagem: ''}];
 
   ngOnInit() {
-    this.musicsService.getData().subscribe((o) => {
+    this.musicsService.getMusic().subscribe((o) => {
       this.results = o;
       console.log(this.results);
     });

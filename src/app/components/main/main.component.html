@@ -4,10 +4,22 @@
         <a class="link" href="#">Mostrar tudo</a>
     </div>
     <div class="card">
-        <button (click)="scrollLeft()" class="nav-button-left">&lt;</button>
+        <button (click)="scrollLeft1()" class="nav-button-left">&lt;</button>
         <div class="carousel" #carousel>
             <app-card></app-card>
         </div>
-        <button (click)="scrollRight()" class="nav-button-right">&gt;</button>
+        <button (click)="scrollRight1()" class="nav-button-right">&gt;</button>
+    </div>
+
+    <div class="text">
+        <a class="title" href="#">Artistas populares</a>
+        <a class="link" href="#">Mostrar tudo</a>
+    </div>
+    <div class="card">
+        <button (click)="scrollLeft2()" class="nav-button-left">&lt;</button>
+        <div class="carousel" #carousel2>
+            <app-circle></app-circle>
+        </div>
+        <button (click)="scrollRight2()" class="nav-button-right">&gt;</button>
     </div>
 </main>

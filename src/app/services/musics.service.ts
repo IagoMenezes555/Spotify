@@ -8,13 +8,23 @@ export interface M{
   imagem: string
 }
 
+export interface A{
+  nome: string,
+  tipo: string,
+  imagem: string
+}
+
 @Injectable({
   providedIn: 'root'
 })
 export class MusicsService {
   constructor(private http: HttpClient){}
 
-  getData(): Observable<M[]> {
+  getMusic(): Observable<M[]> {
     return this.http.get<M[]>("http://localhost:3000/Musicas");
+  }
+
+  getArtist(): Observable<A[]> {
+    return this.http.get<A[]>("http://localhost:3000/Artistas")
   }
 }

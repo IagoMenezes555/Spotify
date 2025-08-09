@@ -85,5 +85,93 @@
       "cantor": "Michael Jackson",
       "imagem": "./albums/michaelJackson.png"
     }
+  ],
+
+  "Artistas": [
+    {
+      "nome": "Los Hermanos",
+      "tipo": "Artista",
+      "imagem": "./artistas/losHermanos.png"
+    },
+    {
+      "nome": "Pearl Jam",
+      "tipo": "Artista",
+      "imagem": "./artistas/pearlJam.png"
+    },
+    {
+      "nome": "D4vd",
+      "tipo": "Artista",
+      "imagem": "./artistas/d4vd.png"
+    },
+    {
+      "nome": "Cafuné",
+      "tipo": "Artista",
+      "imagem": "./artistas/cafune.png"
+    },
+    {
+      "nome": "Radiohead",
+      "tipo": "Artista",
+      "imagem": "./artistas/radiohead.png"
+    },
+    {
+      "nome": "The Beatles",
+      "tipo": "Artista",
+      "imagem": "./artistas/theBeatles.png"
+    },
+    {
+      "nome": "Queen",
+      "tipo": "Artista",
+      "imagem": "./artistas/queen.png"
+    },
+    {
+      "nome": "Kiss",
+      "tipo": "Artista",
+      "imagem": "./artistas/kiss.png"
+    },
+    {
+      "nome": "Guns N' Roses",
+      "tipo": "Artista",
+      "imagem": "./artistas/gunsNRoses.png"
+    },
+    {
+      "nome": "Legião Urbana",
+      "tipo": "Artista",
+      "imagem": "./artistas/legiaoUrbana.png"
+    },
+    {
+      "nome": "Nirvana",
+      "tipo": "Artista",
+      "imagem": "./artistas/nirvana.png"
+    },
+    {
+      "nome": "A-Ha",
+      "tipo": "Artista",
+      "imagem": "./artistas/a-Ha.png"
+    },
+    {
+      "nome": "Elton John",
+      "tipo": "Artista",
+      "imagem": "./artistas/eltonJohn.png"
+    },
+    {
+      "nome": "CPM22",
+      "tipo": "Artista",
+      "imagem": "./artistas/cpm22.png"
+    },
+    {
+      "nome": "Bon Jovi",
+      "tipo": "Artista",
+      "imagem": "./artistas/bonJovi.png"
+    },
+    {
+      "nome": "Michael Jackson",
+      "tipo": "Artista",
+      "imagem": "./artistas/michaelJackson.png"
+    },
+    {
+      "nome": "Charlie Brown Jr.",
+      "tipo": "Artista",
+      "imagem": "./artistas/cbjr.png"
+    }
   ]
 }
